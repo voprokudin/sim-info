@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimInfo</string>
+    <string name="sim_detected">Sim detected</string>
+    <string name="no_sim_detected">No sim detected</string>
+    <string name="permission_denied">Permission Denied. We can\'t get sim info</string>
+    <string name="permission_info">Phone state permission allows us to get phone number. Please allow it for additional functionality.</string>
+    <string name="call_state">CALL STATE:</string>
+    <string name="mobile_number">MOBILE NUMBER:</string>
+    <string name="sim_operator_name">SIM OPERATOR NAME:</string>
+    <string name="sim_serial_number">SIM SERIAL NUMBER:</string>
+    <string name="sim_state">SIM STATE:</string>
+    <string name="country_iso">COUNTRY ISO:</string>
+    <string name="number_of_slots">NUMBER OF SLOTS:</string>
+    <string name="imei_number_of_slot">IMEI NUMBER OF SLOT</string>
+    <string name="slot_sim_inserted">SLOT SIM INSERTED:</string>
+</resources>
